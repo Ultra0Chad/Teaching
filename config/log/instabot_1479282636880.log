@@ -1,0 +1,17 @@
+2020-11-09 10:28:58,610 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-11-09 10:28:58,611 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\zekes\AppData\Local\Programs\Python\Python38\lib\site-packages\instabot\bot\bot.py
+2020-11-09 10:28:59,010 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-11-09 10:28:59,010 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-11-09 10:28:59,011 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\zekes\Desktop\Code\Learning/config/ventilgamingofficial_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=fbe7ecde-d3e5-492f-8b00-f2b299558e19
+- uuid=957e7a2d-61e8-46d9-8f68-771ffe00f575
+- client_session_id=b86d3c72-ad6b-48a5-9751-c5f379f8076d
+- device_id=android-f6a27928e3b4066a
+2020-11-09 10:28:59,012 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-11-09 10:29:00,192 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-11-09 10:29:00,643 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-11-09 10:29:00,646 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'ventilgamingofficial'!
+2020-11-09 10:29:00,646 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\zekes\Desktop\Code\Learning/config/ventilgamingofficial.checkpoint
+2020-11-09 10:29:00,647 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\zekes\Desktop\Code\Learning/config/ventilgamingofficial.checkpoint
+2020-11-09 10:29:00,648 - instabot version: 0.117.0 (bot) - INFO - Total requests: 31
