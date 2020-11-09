@@ -16,11 +16,9 @@ def suckies(password):
                 gaiusSucks += 1
             if i == "zekeSucks":
                 zekeSucks += 1
-        if zekeSucks >= 3:
+        if zekeSucks >= gaiusSucks:
             print("zeke sucks more")
-        elif gaiusSucks >= 3:
-            print("gaius sucks more")
         else:
-            print ("neither")
+            print("gaius sucks more")
 
 suckies(69420)
